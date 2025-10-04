@@ -13,4 +13,4 @@ langchain-huggingface
 sounddevice
 wavio
 numpy
-streamlit-audio-recorder
+streamlit-mic-recorder
