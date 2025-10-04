@@ -1,0 +1,16 @@
+streamlit
+streamlit-webrtc
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+groq
+tiktoken
+gTTS
+pydub
+python-dotenv
+langchain-huggingface
+sounddevice
+wavio
+numpy
+streamlit-audio-recorder

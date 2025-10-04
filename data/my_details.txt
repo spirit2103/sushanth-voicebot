@@ -1,0 +1,133 @@
+
+Sushanth D Gowda – Bio & Profile
+
+Personal Information
+- Full Name: Sushanth D Gowda
+- Location: Sringeri, Chikkamagaluru, Karnataka, India
+- Background: From a humble family, parents gave full freedom to learn. Passionate about computer science and coding from childhood.
+- Languages: English, Kannada
+
+Education
+- Schooling: 1st–10th in Government Schools, English medium from 6th.
+- Pre-University (PUC): PCMCs at Sri JCBM College, Sringeri.
+  - Score: 67% in II PUC.
+- Undergraduate: B.Sc in PMCS (Physics, Maths, Computer Science) at Sri JCBM College, Sringeri.
+  - Score: 74.83%
+  - Learned: C, C++, Java, SQL.
+- Postgraduate: MCA at Sir M. Visvesvaraya Institute of Technology, Bengaluru.
+  - CGPA (till 3rd sem): 8.67
+  - Status: Final semester exams completed, awaiting project viva.
+- Entrance: PGCET Rank – 1903.
+
+Highest Achievements
+- Selected for Smart India Hackathon 2024, IIT Kharagpur (Problem ID SIH1676).
+- AI Specialist in Hackathon team.
+
+Achievements
+- Coordinator of AI/ML Club (MCA Department).
+- Main Coordinator of BGMI Gaming Event in Avyuktha.
+- Writing an IEEE paper on IntelliBiz Agent project.
+
+Personality & Character
+- Introvert but adaptable in teamwork.
+- Very fast learner (mastered AI, GenAI, Agents in just 1 year).
+- Flexible, soft-spoken, and hardworking.
+- Superpowers: Quick thinker, fast learner, problem solver.
+- Growth Areas:
+  - Deep AI concepts (beyond project-specific).
+  - Advanced GenAI, AI Agents, RAG systems.
+  - Cloud deployment, MLOps, scaling.
+
+Work Style
+- Strong ownership of projects.
+- Breaks down complex problems into smaller, solvable modules.
+- Enjoys rapid prototyping and automation.
+
+Interests
+- Artificial Intelligence (AI), Generative AI (GenAI).
+- AI Agents, Natural Language Processing (NLP), RAG (Retrieval-Augmented Generation).
+- Applied business intelligence and data automation.
+
+Work Ethics
+- Disciplined and transparent in execution.
+- Team player as well as independent contributor.
+- Pushes personal boundaries with continuous self-learning.
+
+Motivations
+- Belief in AI as a tool for empowerment.
+- Passion for solving real-world problems.
+- Inspired to create business-impacting AI solutions.
+
+Life Goals
+- Build a company to create AI-powered solutions for the Indian Army – e.g., Virtual Soldiers and defense automation.
+- Become a leading AI entrepreneur in applied Generative AI.
+
+Projects Portfolio
+
+1. IntelliBiz Agent (Smart Business Manager)
+Description:
+AI-powered business assistant that allows non-technical users to interact with databases using natural language.
+
+Features:
+- Converts natural language → SQL queries → insights/visualizations.
+- Automates business analytics.
+- Three agents:
+  1. Table Creation Agent (chatbot-style schema creation).
+  2. File Insertion Agent (bulk upload via Excel/CSV/JSON).
+  3. Chart & Insight Generator Agent (suggests 3 unique graphs + insights).
+- Dashboard with user-friendly UI.
+
+Tech Stack: Python, Streamlit, ReactJS, FastAPI, PostgreSQL (Supabase/NeonDB), LangGraph, Groq LLM, Docker.
+
+2. Cryptocurrency Price Prediction (Bitcoin)
+Description:
+Predicts Bitcoin trends using real-time data from Binance API and LSTM model.
+
+Features:
+- Real-time data collection at 5-min intervals (1000 intervals ≈ 3 days 12 hours).
+- Predicts 15-min, 30-min, 1-hour future trends.
+- Displays predicted price movement and trend graphs.
+
+Tech Stack: Python, Streamlit, TensorFlow/Keras (LSTM), Binance API.
+
+3. Lung & Heart Disease Prediction
+Description:
+ML model to predict disease risk from patient health parameters.
+
+Tech Stack: Python, Streamlit, Scikit-learn, Pandas, Matplotlib.
+
+4. Cybersecurity Chatbot (SIH 2024 Project)
+Description:
+Cybersecurity knowledge assistant built for Smart India Hackathon 2024.
+
+Features:
+- Provides product details, CVE IDs, tool references.
+- Links to official OEM vendor websites.
+
+Tech Stack: Python, Streamlit, NVIDIA Nemotron LLM, Manual Mapping.
+
+5. File Q&A Agent
+Description:
+Document question-answering system with RAG.
+
+Features:
+- Upload DOC, TXT, PDF.
+- Ask questions → AI retrieves context-based answers.
+
+Tech Stack: Python, LangChain, Groq LLM, FAISS, Streamlit.
+
+6. ADGM Corporate Agent
+Description:
+Flags issues in ADGM corporate applications based on compliance rules.
+
+Tech Stack: Python, Streamlit, LangChain RAG, Groq LLM.
+
+7. Text Extraction Agent
+Description:
+Extracts structured data from unstructured documents.
+
+Features:
+- Extracts names, emails, phone numbers, job titles, URLs, PIN codes, etc.
+- Outputs data in SQLite, CSV, JSON, and plain text.
+
+Tech Stack: Python, Hugging Face BERT-base NER, Streamlit.
